@@ -7,7 +7,7 @@
 - ![git](https://github.com/user-attachments/assets/21ce908f-95d0-47cf-bba0-8ef889e081e2)
 # Skills
 🖥️ Programming languages:C,Python,Java,Javascript,HTML,CSS,R,Dart
-🔮 Databases: MySQL
+- 🔮 Databases: MySQL
 <!---
 AnsTomy/AnsTomy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
